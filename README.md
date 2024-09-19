@@ -1,4 +1,4 @@
-## Hey 👋, I'm a Igaming Developer!  
+## Hello 👋, I'm a Senior Fullstack Developer!  
   
 
   
