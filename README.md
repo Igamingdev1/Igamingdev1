@@ -8,7 +8,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>
 
-## Rapidfire
+<!-- ## Rapidfire
 
 <table><tr><td valign="top" width="50%">
 
@@ -26,7 +26,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img align="right" width="265" src="./assets/developer.gif" />
 </div>
 
-</td></tr></table>
+</td></tr></table> -->
 
 <br/>
 
