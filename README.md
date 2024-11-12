@@ -47,6 +47,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </div>
 <br/>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 <!-- ## Github Stats
 <table><tr><td valign="top" width="50%">
 
