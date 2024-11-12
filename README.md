@@ -47,9 +47,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </div>
 <br/>
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 <!-- ## Github Stats
 <table><tr><td valign="top" width="50%">
@@ -69,3 +66,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - Email: pontrue1031@gmail.com
 - Telegram: @casinodev1
 - Skype: live:.cid.59c06c5db39b45d6
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
