@@ -1,6 +1,6 @@
 ## Hello 👋, I'm a Senior Fullstack Developer!
 
-<div display="flex" >
+<div style="display:'flex'" >
     <div>
         ###  Glad to see you here!
         I’m a full-stack developer who has turned years of freelancing into a full-time career. 
