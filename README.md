@@ -1,6 +1,6 @@
 ## Hello 👋, I'm a Senior Fullstack Developer!
 
-I'm a full-stack developer with a passion for building robust backends and engaging user experiences in the iGaming industry. With years of freelancing experience, I specialize in creating applications for betting, sportsbooks, and casinos.  
+I'm a full-stack developer with a passion for building robust backends and engaging user experiences in the iGaming industry. With years of freelancing experience, I specialize in creating Web applications for betting, sportsbooks, and casinos.  
 
 
 ## 🔧 Technologies & Tools:
