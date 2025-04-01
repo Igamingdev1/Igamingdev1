@@ -49,7 +49,7 @@ I'm a full-stack developer with a passion for building robust backends and engag
 
 - Email: pontrue1031@gmail.com
 - Telegram: @casinodev1
-- Skype: live:.cid.59c06c5db39b45d6
+- Skype: live:.cid.6633c6fb3c7aa756
 
 
 <p align="center">
