@@ -50,7 +50,7 @@ I'm a full-stack developer with a passion for building robust backends and engag
 - Email: pontrue1031@gmail.com
 - Telegram: @casinodev1
 - Microsoft Teams: pontrue1031@gmail.com
-- Discord: igmaing31031_59278
+- Discord: igaming1031
   
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
